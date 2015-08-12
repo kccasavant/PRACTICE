@@ -1,2 +1,5 @@
-# PRACTICE
-This is a test
+## PRACTICE
+### This is a test
+* Learn
+* Grow
+* Succeed
